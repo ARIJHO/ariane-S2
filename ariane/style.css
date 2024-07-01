@@ -61,3 +61,40 @@
         color: var(--letra);
         Width: 70%;
     }
+    .conteudo-senha{
+        margin-top: 20px;
+        background-color: var(--fundo-senha);
+        border-radius: 35px;
+        padding: 5px;
+        border-bottom: 5px solid var(--borda);
+        font-size: 60px;
+        }
+        
+        #campo-senha{
+            background-color: var(--cor-da-letra);
+            color: var(--cor-do-titulo);
+            width: 80%;
+            font-size: 38px;
+            border-radius: 30px;
+        }
+        
+        #campo-senha:focus{
+            outline:none;
+            background-color: var(--fundo-campo);
+        }
+        
+        .parametro{
+            font-family: var(--fonte2);
+            font-size: 15px;
+        }
+        .conteudo{
+            Width: 1200px;
+            margin:0 auto;
+        }
+
+    .parametro{
+        background-color:var(--fundo-texto);
+        border: 2px solid var(--borda);
+        margin-top: 32px;
+        padding:22px;
+    }
