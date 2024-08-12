@@ -136,3 +136,12 @@
         padding: 24px;
         cursor: pointer;
     }
+    label{
+        font-size: 20px
+    }
+    
+    .parametro-senha-checkbox{
+        width: 30px;
+        height: 75px;
+        cursor: pointer;
+    }
